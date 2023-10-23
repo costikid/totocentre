@@ -1241,6 +1241,10 @@
   right: 0;
 }
 
+.u-section-5 .u-container-layout-7 {
+  padding: 30px;
+}
+
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
     min-height: 763px;
@@ -1439,6 +1443,11 @@
 
   .u-section-5 .u-image-5 {
     height: 176px;
+  }
+
+  .u-section-5 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
